@@ -15,6 +15,7 @@ Basaremos nuestro sitio web en los animales de un zoológico ficticio.
 La idea que tenemos es hacer una pagina principal con enlaces a distintas 'tarjetas' con información sobre cada familia. Dentro de estas, estarán los tipos de animal que tenemos. También incluiremos alguna página con datos sobre nuestro zoo y el staff. 
 
 Vamos a utilizar un tema que hemos sacado de un repositorio de GitHub. Se llama *Freelancer*.
+
 ![Foto Pagina Web](/img/md/freelancer.PNG)
 
 ## **Planificación sitio web**
