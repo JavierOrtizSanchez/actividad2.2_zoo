@@ -5,7 +5,7 @@ Somos dos cursantes del modulo de IAW en Administracion de Sistemas Informático
 ***LogicZoo Harambe***
 
 ## **Autores del sitio o miembros del grupo y su rol en el mismo  (propietario o colaborador)**
-Hemos decidido que Javier sera el propietario del Repositorio y Mario será colaborador. Trabajaremos en conjunto con GitHub con el Fork y los Pull Request necesarios para el trabajo colaborativo.
+Hemos decidido que Javier sera el propietario del Repositorio y Mario será colaborador. Trabajaremos en conjunto con GitHub gracias a el Fork y los Pull Request necesarios para el trabajo colaborativo.
 
 ## **Temática del sitio web**
 Basaremos nuestro sitio web en los animales de un zoológico ficticio.
@@ -15,5 +15,5 @@ La idea que tenemos es hacer una pagina principal con enlaces a distintas 'tarje
 
 Vamos a utilizar un tema que hemos sacado de un repositorio de GitHub. Se llama *Freelancer*.
 
-## **Planificación sitio web: Tareas que va a llevar a cabo cada uno de los miembros del grupo:  organización, distribución  y planificación de tareas.**
+## **Planificación sitio web**
 En este caso, el reparto de tareas se realizará una vez hayamos empezado a trabajar y en función de nuestros puntos fuertes.
