@@ -52,7 +52,7 @@ address:
   - line: 39300 Torrelavega, Cantabria
 
 # Credits content
-credits: 'Freelancer tema abierto y gratuito creado por <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer es un tema abierto y gratuito creado por <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
