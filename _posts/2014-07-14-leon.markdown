@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2024-07-14
+img: leon.jpg
+alt: image-alt
+project-date: 2024
+client: LogicZoo Harambe
+category: Panthera leo leo
+description: Es un mamífero carnívoro que habita actualmente en las regiones del norte de África y Asia. Después del tigre, es el segundo felino de mayor tamaño.
+El cuerpo del león es musculoso y viene acompañado de una cabeza grande con un hocico corto y ancho, de donde sobresalen sus largos y afilados caninos y sus bigotes o vibrisas, esenciales para que puedan guiarse en la oscuridad. Sus patas son anchas y muy fuertes, diseñadas para las capturas de alta resistencia, pero no para las carreras largas. Con sus garras retráctiles penetran la piel de sus presas.
+---
