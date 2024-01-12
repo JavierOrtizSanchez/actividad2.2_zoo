@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: LogicZoo Harambe
 email: javiermario@zoo.com
 url: https://jeromelachaud.com/freelancer-theme
 description: "Somos dos cursantes del modulo de IAW en Administracion de Sistemas Informáticos en Red. Nuestro nombres son Mario Cuevas y Javier Ortiz. En esta ocasión unimos fuerzas para realizar esta tarea conjunta."
@@ -34,8 +34,8 @@ color:
 footer:
   copyright: JavierMario
   location: Espana
-  social: Around the Web
-  credits: Credits
+  social: Redes Sociales
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: 39300 Torrelavega, Cantabria
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer tema abierto y gratuito creado por <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
