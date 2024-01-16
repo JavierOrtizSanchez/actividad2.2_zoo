@@ -7,6 +7,5 @@ alt: image-alt
 project-date: 2024
 client: LogicZoo Harambe
 category: Gorilla
-description: Son primates herbívoros con composiciones genéticas muy parecidas a las del ser humano y es el más grande de todos los primates. Estos se desplazan en cuatro patas y sus extremidades superiores son similares a los brazos humanos que también utilizan para apoyarse al andar.
-Si un macho dominante se ve amenazado por otro más joven, el primero suele golpearse el pecho, gritar, romper ramas y mostrar los dientes.
+description: Son primates herbívoros con composiciones genéticas muy parecidas a las del ser humano y es el más grande de todos los primates. Estos se desplazan en cuatro patas y sus extremidades superiores son similares a los brazos humanos que también utilizan para apoyarse al andar. Si un macho dominante se ve amenazado por otro más joven, el primero suele golpearse el pecho, gritar, romper ramas y mostrar los dientes.
 ---
