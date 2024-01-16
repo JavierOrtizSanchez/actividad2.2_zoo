@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 5
-date: 2024-07-14
+date: 2014-07-14
 img: leon.jpg
 alt: image-alt
-project-date: 2024
+project-date: 2014
 client: LogicZoo Harambe
 category: Panthera leo
 description: Es un mamífero carnívoro que habita actualmente en las regiones del norte de África y Asia.
