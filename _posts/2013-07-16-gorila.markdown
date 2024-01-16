@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2013-07-16
+img: gorila.jpg
+alt: image-alt
+project-date: 2013
+client: LogicZoo Harambe
+category: Gorilla
+description: Son primates herbívoros con composiciones genéticas muy parecidas a las del ser humano y es el más grande de todos los primates, pero se desplazan en cuatro patas y sus extremidades superiores son similares a los brazos humanos que también utilizan para apoyarse al andar.
+---
