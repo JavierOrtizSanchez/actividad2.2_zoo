@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2020-07-17
+img: elefante.jpg
+alt: image-alt
+project-date: 2020
+client: LogicZoo Harambe
+category: Loxodonta africana
+description: El elefante africano es el animal terrestre más grande del mundo, con un peso promedio de 6 toneladas y una altura de 3 a 4 metros. Estos grandes mamíferos tienen una piel gruesa y grisácea, casi sin pelo o con una fina capa vellosa, que los protege del calor y del sol.
+---
